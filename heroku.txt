@@ -1,0 +1,2 @@
+push only a folder to heroku
+git subtree push --prefix frontend heroku master
